@@ -1,0 +1,43 @@
+/* Estilos globales */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f7fa;
+    color: #333;
+    text-align: center;
+}
+
+/* Encabezado */
+header {
+    background-color: #4a90e2;
+    color: white;
+    padding: 20px;
+}
+
+/* Sección principal */
+main {
+    padding: 30px;
+}
+
+button {
+    background-color: #4a90e2;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin-top: 15px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #357abd;
+}
+
+/* Pie de página */
+footer {
+    background-color: #222;
+    color: #aaa;
+    padding: 15px;
+    margin-top: 30px;
+}
